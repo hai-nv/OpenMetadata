@@ -151,7 +151,6 @@
                     <targetPackage>org.openmetadata.schema</targetPackage>
                     <includeJsr303Annotations>true</includeJsr303Annotations>
                     <generateBuilders>true</generateBuilders>
-                    <uniqueEnums>true</uniqueEnums>
                     <customAnnotator>org.openmetadata.annotations.OpenMetadataAnnotator</customAnnotator>
                 </configuration>
                 <dependencies>
